@@ -9,7 +9,7 @@ title:               Health Data Project Toolkit
 tagline:             'a Guide for CA Health Data Ambassadors'
 description:         'A statewide pilot project funded by the <a href="http://www.chcf.org/" target="_blank">California HealthCare Foundation’s</a> <a href="http://www.chcf.org/projects/2012/free-the-data" target="_blank">Free the Data</a> Initiative'
 url:                 http://toolkit.cahealthdata.org
-baseurl:             'http://bonville.github.io/toolkit
+baseurl:             'http://bonville.github.io/toolkit'
 paginate:            5
 
 # About/contact
