@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Introduction
+# Introduction...changing...
 
 The [Communities Outreach Program for State Health Data](http://cahealthdata.org/) kicked off in February 2015 with the overarching goal to build a long-term, sustainable, open data program that encourages community support from across sectors and builds a bridge to local communities with California’s health data. [Purchia Communications LLC](http://www.brianpurchia.com/about/) has been provided with a grant from the California HealthCare Foundation (CHCF) [Free the Data initiative](http://www.chcf.org/projects/2012/free-the-data) to develop and run a community pilot program that leverages the available data on California’s Health and Human Service Agency (CHHS) [Open Data Portal](https://chhs.data.ca.gov/). As part of this effort, three cities were selected for the pilot: Los Angeles, Fresno and Sacramento. Health Data Ambassadors, based off of the Code For America Brigade model were chosen to represent and lead the project in each city.
 
